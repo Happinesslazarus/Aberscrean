@@ -1,6 +1,8 @@
 # Aberscrean
 A role-based repair management system with manager and employee access, featuring intuitive dashboards, secure login, and robust repair tracking. Built with design patterns like Singleton, Factory Method, and Observer for scalable architecture.
 
+![Screenshot of Aberscrean's dashboard interface showing role-based repair tracking and management features](https://github.com/Happinesslazarus/Aberscrean/blob/5d4c93a9d03e3fbcdbd5f65769cde696252c230e/Image_project%20.png?raw=true)
+
 
 # Aberscrean
 
